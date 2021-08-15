@@ -1,0 +1,44 @@
+C:\Users\rugil\Desktop\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.csprojAssemblyReference.cache
+C:\Users\rugil\Desktop\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.AssemblyInfoInputs.cache
+C:\Users\rugil\Desktop\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.AssemblyInfo.cs
+C:\Users\rugil\Desktop\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.exe
+C:\Users\rugil\Desktop\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.deps.json
+C:\Users\rugil\Desktop\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.runtimeconfig.json
+C:\Users\rugil\Desktop\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.runtimeconfig.dev.json
+C:\Users\rugil\Desktop\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.dll
+C:\Users\rugil\Desktop\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.pdb
+C:\Users\rugil\Desktop\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.dll
+C:\Users\rugil\Desktop\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.pdb
+C:\Users\rugil\Desktop\Algoritmai\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.exe
+C:\Users\rugil\Desktop\Algoritmai\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.deps.json
+C:\Users\rugil\Desktop\Algoritmai\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.runtimeconfig.json
+C:\Users\rugil\Desktop\Algoritmai\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.runtimeconfig.dev.json
+C:\Users\rugil\Desktop\Algoritmai\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.dll
+C:\Users\rugil\Desktop\Algoritmai\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.pdb
+C:\Users\rugil\Desktop\Algoritmai\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.csprojAssemblyReference.cache
+C:\Users\rugil\Desktop\Algoritmai\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.AssemblyInfoInputs.cache
+C:\Users\rugil\Desktop\Algoritmai\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.AssemblyInfo.cs
+C:\Users\rugil\Desktop\Algoritmai\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.dll
+C:\Users\rugil\Desktop\Algoritmai\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.pdb
+C:\Users\rugil\Desktop\Algoritmai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.exe
+C:\Users\rugil\Desktop\Algoritmai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.deps.json
+C:\Users\rugil\Desktop\Algoritmai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.runtimeconfig.json
+C:\Users\rugil\Desktop\Algoritmai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.runtimeconfig.dev.json
+C:\Users\rugil\Desktop\Algoritmai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.dll
+C:\Users\rugil\Desktop\Algoritmai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.pdb
+C:\Users\rugil\Desktop\Algoritmai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.csprojAssemblyReference.cache
+C:\Users\rugil\Desktop\Algoritmai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.AssemblyInfoInputs.cache
+C:\Users\rugil\Desktop\Algoritmai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.AssemblyInfo.cs
+C:\Users\rugil\Desktop\Algoritmai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.dll
+C:\Users\rugil\Desktop\Algoritmai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.pdb
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Algoritmai\Laborai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.exe
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Algoritmai\Laborai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.deps.json
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Algoritmai\Laborai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.runtimeconfig.json
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Algoritmai\Laborai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.runtimeconfig.dev.json
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Algoritmai\Laborai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Algoritmai\Laborai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\bin\Debug\netcoreapp3.1\Algoritmai_LD1.pdb
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Algoritmai\Laborai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.csprojAssemblyReference.cache
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Algoritmai\Laborai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.AssemblyInfoInputs.cache
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Algoritmai\Laborai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.AssemblyInfo.cs
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Algoritmai\Laborai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Algoritmai\Laborai\1 LABORAS\Algoritmai_LD1\Algoritmai_LD1\obj\Debug\netcoreapp3.1\Algoritmai_LD1.pdb
